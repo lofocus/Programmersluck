@@ -19,7 +19,8 @@ AppStore地址：https://itunes.apple.com/us/app/cheng-xu-yuan-huang-li/id629421
     1：程序从服务器读取数据。
     2：使用者可以填写数据，并且提交到服务器，客户获取时会显示此条数据提供者。
     3：用户无法联网时，使用默认数据，程序定期自动更新客户端默认数据库。
-    4：美化界面。
+    4：完善阴历日历，以及节日等信息。
+    5：美化界面。
 	
 
 无论您是新手菜鸟还是技术大牛，小学生还是10年开发经验。
@@ -63,6 +64,16 @@ AppStore地址：https://itunes.apple.com/us/app/cheng-xu-yuan-huang-li/id629421
         MoreView(其他视图)
             MoveViewController(其他视图控制器)
         AppDelegate(主代理)
+
+
+
+## 代码重用
+
+1：AppStpre内已有此程序，请不要再次上传此程序到AppStpre。
+
+2：可以下载并修改源码另作它用，不受任何限制。
+
+
 
 
 
